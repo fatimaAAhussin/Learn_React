@@ -1,0 +1,55 @@
+const employeeData = [
+  {
+    id: 1,
+    img: '/images/1.jpeg',
+    name: 'Sophia Anderson',
+    position: 'Software Developer',
+    phone: '+1 555-1111',
+    email: 'sophia@example.com',
+  },
+  {
+    id: 2,
+    img: '/images/2.jpg',
+    name: 'Liam Thompson',
+    position: 'Data Analyst',
+    phone: '+1 555-2222',
+    email: 'liam@example.com',
+  },
+  {
+    id: 3,
+    img: '/images/3.jpeg',
+    name: 'Olivia Martin',
+    position: 'UX/UI Designer',
+    phone: '+1 555-3333',
+    email: 'olivia@example.com',
+    website: 'oliviamartin.design',
+  },
+  {
+    id: 4,
+    img: '/images/4.jpeg',
+    name: 'Lucas Walker',
+    position: 'Marketing Coordinator',
+    phone: '+1 555-4444',
+    email: 'lucas@example.com',
+  },
+  {
+    id: 5,
+    img: '/images/5.jpg',
+    name: 'Ava Perez',
+    position: 'CEO',
+    phone: '+1 555-5555',
+    email: 'ava@example.com',
+    website: 'avaperez.com',
+  },
+  {
+    id: 6,
+    img: '/images/6.jpeg',
+    name: 'Noah Baker',
+    position: 'Frontend Developer',
+    phone: '+1 555-6666',
+    email: 'noah@example.com',
+    website: 'noahbaker.dev',
+  },
+];
+
+export default employeeData;
